@@ -1,6 +1,6 @@
-## Hi, we are CW. Compelling Works, Ltd. 👋
+## Hi 👋, we are CW. Compelling Works, Ltd.
 
-🙋‍♀️ Compelling Works Ltd. is a digital health consultancy firm, promoting health and wellbeing through practical digital solutions. At Compelling Works, we believe in Value Addition through the execution of works that are compelling.
+🙋‍♀️ Compelling Works Ltd. is a digital health consultancy firm, promoting health, wellbeing, and development through practical digital solutions. At Compelling Works, we believe in Value Addition through the execution of works that are compelling.
 
 You can read more about us on http://compelling.works/ 
 <!--
